@@ -3,7 +3,7 @@
 ### I'm cslqm
 
 - 🎓 Taiyuan Normal University
-- 🏠 Xinxiang Changyuan
+- 🏠 China Xinxiang Changyuan
 - 🔭 I’m currently working on Cloud.
 - 🌱 I’m currently learning Golang/Python.
 - 📫 How to reach me: qiangmin2016@outlook.com
