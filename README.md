@@ -2,7 +2,7 @@
 
 ### I'm cslqm
 
-- 🎓 太原师范学院
+- 🎓 Taiyuan Normal University
 - 🏠 Xinxiang Changyuan
 - 🔭 I’m currently working on Cloud.
 - 🌱 I’m currently learning Golang/Python.
