@@ -2,12 +2,6 @@
 
 ### I'm cslqm
 
-- 🎓 Taiyuan Normal University
-- 🏠 China Xinxiang Changyuan
-- 🔭 I’m currently working on Cloud.
-- 🌱 I’m currently learning Golang/Python.
-- 📫 How to reach me: qiangmin2016@outlook.com
-
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=cslqm&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
